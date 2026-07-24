@@ -4,7 +4,7 @@ title: "Phase-Correction Strategies for Physics-Driven Deep Learning Reconstruct
 date: 2026-01-01 00:01:00 +0000
 selected: true
 
-pub: "IEEE International Symposium on Biomedical Imaging (ISBI)"
+pub: "IEEE International Symposium on Biomedical Imaging (ISBI)<br>International Society for Magnetic Resonance in Medicine (ISMRM)"
 # pub_post: "Accepted"
 pub_date: "2026"
 
