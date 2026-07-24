@@ -21,4 +21,5 @@ abstract: >
 
 links:
   Paper: "https://ieeexplore.ieee.org/abstract/document/10782818"
+  Patent: "https://patentscope.wipo.int/search/en/WO2026015808"
 ---
