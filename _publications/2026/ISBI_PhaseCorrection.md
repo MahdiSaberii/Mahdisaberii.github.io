@@ -18,7 +18,7 @@ authors:
   - Mehmet Akçakaya
 
 abstract: >
-  We investigate **phase-correction strategies** for **physics-guided deep learning** reconstruction of accelerated **non-Cartesian multi-echo fMRI**. By incorporating robust phase estimation into a model-based reconstruction framework, the proposed approaches improve image quality and temporal stability while preserving functional MRI information. The methods were validated on accelerated multi-echo fMRI datasets acquired with non-Cartesian sampling.
+  We investigate phase-correction strategies for physics-guided deep learning reconstruction of accelerated non-Cartesian multi-echo fMRI. By incorporating robust phase estimation into a model-based reconstruction framework, the proposed approaches improve image quality and temporal stability while preserving functional MRI information. The methods were validated on accelerated multi-echo fMRI datasets acquired with non-Cartesian sampling.
 
 links:
   Paper: "https://ieeexplore.ieee.org/abstract/document/11515729"
