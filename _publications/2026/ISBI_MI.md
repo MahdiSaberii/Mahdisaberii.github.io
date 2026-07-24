@@ -15,7 +15,7 @@ authors:
   - Mehmet Akçakaya
 
 abstract: >
-  We introduce a physics-guided deep learning framework that jointly leverages complex-valued and magnitude-only measurements for accelerated MRI reconstruction. The proposed method combines separate learned priors for magnitude and complex image information within an unrolled optimization framework, improving reconstruction quality while preserving image fidelity under challenging acquisition settings. Implemented in PyTorch 1.12 and evaluated on a server equipped with an 80 GB NVIDIA A100 GPU, the framework demonstrates consistent improvements across multiple MRI datasets and acceleration factors.
+  We introduce a physics-guided deep learning framework that jointly leverages complex-valued and magnitude-only measurements for accelerated MRI reconstruction. The proposed method combines separate learned priors for magnitude and complex image information within an unrolled optimization framework, improving reconstruction quality while preserving image fidelity under challenging acquisition settings. The framework demonstrates consistent improvements across multiple MRI datasets and acceleration factors.
 
 links:
   Paper: "https://ieeexplore.ieee.org/abstract/document/11515989"
