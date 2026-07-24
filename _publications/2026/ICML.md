@@ -20,6 +20,5 @@ abstract: >
 
 links:
   Paper: "https://icml.cc/virtual/2026/poster/64452"
-  arXiv: "https://arxiv.org/abs/2501.01908"
   Code: "https://github.com/MahdiSaberii/CycMit-MRI/"
 ---
