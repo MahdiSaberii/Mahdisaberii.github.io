@@ -17,7 +17,7 @@ authors:
   - Mehmet Akçakaya
 
 abstract: >
-  We present a physics-guided deep learning framework for reconstructing frequency-modulated Rabi-encoded (FMRE) MRI, enabling faster and more accessible MRI using a non-Fourier encoding strategy. By integrating the FMRE forward model with learned image priors within an unrolled optimization framework, the proposed method substantially improves reconstruction quality while reducing acquisition time. Implemented in PyTorch 1.12 and evaluated on a server equipped with an 80 GB NVIDIA A100 GPU**, the framework demonstrates the potential of physics-guided AI for emerging MRI acquisition techniques.
+  We present a physics-guided deep learning framework for reconstructing frequency-modulated Rabi-encoded (FREE) MRI, enabling faster and more accessible MRI using a non-Fourier encoding strategy. By integrating the FREE forward model with learned image priors within an unrolled optimization framework, the proposed method substantially improves reconstruction quality while reducing acquisition time.
 
 links:
   Paper: "https://ieeexplore.ieee.org/abstract/document/10782818"
