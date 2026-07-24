@@ -8,7 +8,7 @@ pub: "International Conference on Machine Learning (ICML)"
 # pub_post: "Accepted"
 pub_date: "2026"
 
-cover: /assets/images/covers/icml2026.png
+cover: /assets/images/covers/ICML.png
 
 authors:
   - Mahdi Saberi
