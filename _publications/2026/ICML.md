@@ -16,7 +16,7 @@ authors:
   - Mehmet Akçakaya
 
 abstract: >
-  We propose a training-free adversarial defense for deep learning-based MRI reconstruction based on **cyclic measurement consistency**. The proposed optimization framework can be seamlessly integrated with existing pretrained reconstruction networks, improving robustness against both **image-** and **k-space-based adversarial attacks** without requiring network retraining. 
+  We propose a training-free adversarial defense for deep learning-based MRI reconstruction based on cyclic measurement consistency. The proposed optimization framework can be seamlessly integrated with existing pretrained reconstruction networks, improving robustness against both image- and k-space-based adversarial attacks without requiring network retraining. 
 
 links:
   Paper: "https://icml.cc/virtual/2026/poster/64452"
