@@ -5,7 +5,7 @@ date: 2026-01-01 00:01:00 +0000
 selected: true
 
 pub: "IEEE International Symposium on Biomedical Imaging (ISBI)"
-pub_date: "2026"
+pub_date: "2026 "
 pub_last: '<span class="badge badge-pill badge-success">Invited to IEEE TBME (Top 3–5%)</span>'
 
 cover: /assets/images/covers/ISBI_MI.png
