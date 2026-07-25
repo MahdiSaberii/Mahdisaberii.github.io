@@ -7,7 +7,7 @@ selected: true
 pub: "IEEE Engineering in Medicine and Biology Conference (EMBC)"
 # pub_post: "Proceedings"
 pub_date: "2024"
-pub_last: '<a target="_blank" href="https://patentscope.wipo.int/search/en/WO2026015808"><span class="badge badge-pill badge-warning">Patent</span></a>'
+pub_last: '<a target="_blank" href="https://patentscope.wipo.int/search/en/WO2026015808"><span class="badge badge-pill badge-warning">Non-provisional Patent</span></a>'
 
 cover: /assets/images/covers/EMBC.png
 
