@@ -7,6 +7,7 @@ selected: true
 pub: "International Conference on Machine Learning (ICML)"
 # pub_post: "Accepted"
 pub_date: "2026"
+pub_last: '<span class="badge badge-pill badge-warning">Provisional Patent</span></a>'
 
 cover: /assets/images/covers/ICML.png
 
