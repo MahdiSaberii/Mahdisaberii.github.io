@@ -18,7 +18,7 @@ authors:
   - Mehmet Akçakaya
 
 abstract: >
-  **Physics-Driven DL for Frequency-Modulated Rabi-Encoded Echoes (Published; Patent Pending):** Addressed nonlinear phase distortions and slow acquisition in RF-encoded MRI by incorporating the Frequency-Modulated Rabi-Encoded Echoes (FREE) forward model into an unrolled PD-DL framework. Demonstrated the first parallel-transmit acceleration for MRI, enabling four-fold acceleration with a single receive coil and outperforming conjugate-gradient reconstruction at R = 4 by 11.07 dB (43.7%) in PSNR and 0.29 (47.5%) in SSIM, with a projected 75% reduction in scan time. Published at *IEEE EMBC 2024* and received the *NextGen Scholar Award*.
+  Addressed nonlinear phase distortions and slow acquisition in RF-encoded MRI by incorporating the Frequency-Modulated Rabi-Encoded Echoes (FREE) forward model into an unrolled PD-DL framework. Demonstrated the first parallel-transmit acceleration for MRI, enabling four-fold acceleration with a single receive coil and outperforming conjugate-gradient reconstruction at R = 4 by 11.07 dB (43.7%) in PSNR and 0.29 (47.5%) in SSIM, with a projected 75% reduction in scan time. This paper received the *NextGen Scholar Award* from EMBC 2024.
 
 links:
   Paper: "https://ieeexplore.ieee.org/abstract/document/10782818"
