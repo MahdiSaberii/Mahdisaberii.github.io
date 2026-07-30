@@ -10,7 +10,7 @@ pub_date: "2026"
 cover: /assets/images/covers/UMPIRE.png
 
 abstract: >
-  We introduce UMPIRE-Net, a physics-guided deep learning framework for accelerated MRI reconstruction that explicitly separates magnitude and phase regularization. Unlike conventional methods that learn a single complex-valued representation, UMPIRE-Net independently models magnitude and phase while enforcing measurement consistency through an unrolled optimization framework. Experiments across multiple datasets demonstrate improved reconstruction quality, particularly for challenging partial Fourier imaging. 
+  Addressed limitations of conventional complex-valued PD-DL under substantial phase variations by developing UMPIRE-Net, an ADMM-unrolled framework with separate learned magnitude and phase regularizers. Derived a novel differentiable solver for the resulting nonconvex data-fidelity objective using CR-calculus and smooth magnitude approximations, accelerated with Nesterov momentum. Achieved average gains over conventional PD-DL baselines of 1.51 dB in PSNR (4.5%) and 0.028 in SSIM (3.3%) across Cor-PD and Cor-PDFS knee datasets at R $\in$ \{6,8\}. This paper received the Trainee Educational Stipend Award for this work at the ISMRM 2026 Annual Meeting.
 
 
 authors:
