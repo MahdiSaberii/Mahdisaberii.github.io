@@ -15,7 +15,7 @@ authors:
   - Mehmet Akçakaya
 
 abstract: >
-  We introduce C+Mag PD-DL, a magnitude-informed physics-driven deep learning framework that improves accelerated cardiac MRI reconstruction by jointly using acquired complex-valued k-space data and auxiliary magnitude information from neighboring cardiac phases within a novel data-fidelity term. Across multiple acceleration settings, including R = 6, C+Mag PD-DL outperforms conventional PD-DL by producing sharper images with fewer reconstruction artifacts.
+  Addressed residual artifacts in highly accelerated dynamic MRI by developing C+Mag, an ADMM-unrolled framework that integrates complementary k-space magnitude information from neighboring cardiac phases through a novel magnitude-aware data-fidelity term without additional acquisition. Across retrospectively undersampled cine and Flow2D MRI at R \in {6,8}, improved conventional PD-DL by an average of 7.42 dB (26.1%) in PSNR and 0.131 (16.3%) in SSIM. On prospectively undersampled real-time cine MRI at R = 8, conducted clinical image review in Synedra and cardiac functional analysis using Segment CMR, demonstrating preserved functional measurements and achieved expert-rated image quality comparable to fully sampled and clinical R = 4 references.
 
 links:
   Paper: "https://ieeexplore.ieee.org/abstract/document/11515989"
