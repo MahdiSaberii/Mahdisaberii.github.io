@@ -1,5 +1,5 @@
 ---
-title: "Training-Free Adversarial Robustness in Computational MRI"
+title: "Training-Free Adversarial Robustness in Computational MRII"
 
 date: 2026-01-01 00:00:04 +0000
 selected: true
