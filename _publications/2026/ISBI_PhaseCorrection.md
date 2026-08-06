@@ -1,7 +1,7 @@
 ---
 title: "Phase-Correction Strategies for Physics-Driven Deep Learning Reconstruction of Accelerated Non-Cartesian Multi-Echo fMRI"
 
-date: 2026-01-01 00:00:03 +0000
+date: 2026-01-01 00:00:04 +0000
 selected: true
 
 pub: "IEEE International Symposium on Biomedical Imaging (ISBI) 2026<br>International Society for Magnetic Resonance in Medicine (ISMRM)"
