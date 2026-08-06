@@ -1,6 +1,6 @@
 ---
 title: "UMPIRE-Net: Unrolled Magnitude–Phase Regularization Network for Accelerated MRI"
-date: 2026-01-01 00:00:03 +0000
+date: 2026-01-01 00:00:02 +0000
 selected: true
 
 pub: "IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2026<br>International Society for Magnetic Resonance in Medicine (ISMRM)"
