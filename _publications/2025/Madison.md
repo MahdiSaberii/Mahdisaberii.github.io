@@ -1,5 +1,5 @@
 ---
-title: "Phase-Crrected Physics-Driven Deep Learning MRI Reconstruction on Non-Cartesian MUulti-Echo MRI"
+title: "Phase-Crrected Physics-Driven Deep Learning MRI Reconstruction on Non-Cartesian Multi-Echo MRI"
 date: 2025-01-01 00:01:00 +0000
 selected: true
 
