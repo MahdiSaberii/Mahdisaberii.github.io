@@ -19,6 +19,6 @@ authors:
   - Mehmet Akçakaya
 
 links:
+  Paper: "https://arxiv.org/abs/2608.14422"
   code: "https://github.com/MahdiSaberii/UMPIRE-Net"
-  # Paper: "#"
 ---
